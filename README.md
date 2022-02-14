@@ -73,7 +73,7 @@ GreetingController 클래스 파일을 작성한다.
 
 ---
 
-##결과 확인
+## 결과 확인
 
 [http://localhost:8080/greeting](http://localhost:8080/greeting) 
 

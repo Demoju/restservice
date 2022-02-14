@@ -12,7 +12,7 @@
 
 [http://localhost:8080/greeting?name=demoju](http://localhost:8080/greeting?name=demoju)
 
-{"id" : 1, "content" : "Hello, demoju!"}
+    {"id" : 1, "content" : "Hello, demoju!"}
 
 ---
 
@@ -22,7 +22,7 @@
 ![](imgs/img.png)
 
 
-다음과 같이 controller package 를 
+다음과 같이 controller package 를 추가하고
 
     com.example.restservice.controller
 

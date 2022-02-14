@@ -72,19 +72,23 @@ GreetingController 클래스 파일을 작성한다.
     }
 
 ---
+
 ##결과 확인
 
 [http://localhost:8080/greeting](http://localhost:8080/greeting) 
+
 ![](imgs/img_1.png)
 
 
 [http://localhost:8080/greeting?name=demuju](http://localhost:8080/greeting?name=demuju)
+
 ![img.png](img.png)
 
 
 
 ---
-## 중요포인트
+
+## 오늘의 중요포인트
 *@RestController* 어노테이션을 Controller 역할을 하는 클래스에 추가해주면, 
 
 해당 Class에 속한 모든 메소드는 View 대신 Domain Object 를 리턴하여 준다.

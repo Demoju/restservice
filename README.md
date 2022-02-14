@@ -8,11 +8,11 @@
 
     {"id" : 1, "content" : "Hello, world!"}
 
-다음과 같이 name 파라미터를 쿼리스트링으로 전달하면 해당 이름에게 인사한다
+다음과 같이 name 파라미터를 쿼리스트링으로 전달하면 해당 값을 리턴한다.
 
 [http://localhost:8080/greeting?name=demoju](http://localhost:8080/greeting?name=demoju)
 
-{"id" : 1, "content" : "Hello, world!"}
+{"id" : 1, "content" : "Hello, demoju!"}
 
 ---
 
